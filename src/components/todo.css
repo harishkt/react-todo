@@ -1,0 +1,23 @@
+.ToDoList-Table {
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+	align-items: inherit;
+	align-self: center;
+}
+.Table-Row {
+	margin: 25px;
+	padding: 25px;
+	border: 10px solid green;
+	box-sizing: content-box;
+}
+.Todo-App {
+	margin-top: 50px;
+	margin-bottom: 10px;
+	background-color: chocolate;
+	box-shadow: 10px 10px 5px black	;
+	min-width: 100px;
+	border-radius: 5px;
+	width: 500px;
+	text-align: center;
+}
